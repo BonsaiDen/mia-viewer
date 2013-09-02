@@ -1,0 +1,28 @@
+{
+  "version": "0.1.0",
+  "name": "mia-viewer",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "author": "Ivo Wetzel <ivo.wetzel@googlemail.com> (https://github.com/BonsaiDen)",
+  "main": "",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.2",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-mocha-test": "~0.6.2",
+    "jade": "~0.35.0",
+    "less": "~1.4.2",
+    "uglifyjs": "~2.3.6",
+    "mkdirp": "~0.3.5",
+    "fs.extra": "~1.2.1"
+  },
+  "engines": {
+    "node": ">=0.8",
+    "npm": ">= 1"
+  },
+  "license": "MIT"
+}
